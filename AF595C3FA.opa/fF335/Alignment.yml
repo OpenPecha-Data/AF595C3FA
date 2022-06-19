@@ -1,0 +1,19 @@
+segment_sources:
+  I839DDCCE:
+    type: origin_type
+    relation: translation
+    language: en
+  I074BB4B0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  36000f2e519c404ab220d9bf34955f50:
+    I839DDCCE: 7fba2990d5034ea2ac73d27642e8b5f6
+    I074BB4B0: cd8a612b81fa4d8d991f72619f8f8ebe
+  9a37b676f04d4cd7832bf84677c21666:
+    I839DDCCE: 566cbf3eed174c9cbcb8e1e6e8ab7d15
+    I074BB4B0: b691189eb1f1482f9ea0cd94d6ce97e8
+  f654d6f1fae54700b3b470cc101c3c51:
+    I839DDCCE: 9f1f0fdf4b8b4ea68e1bea1f7a33f67f
+    I074BB4B0: 27f211f1f52342e98ff4abad1ab98bd6
